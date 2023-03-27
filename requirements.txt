@@ -4,3 +4,6 @@ Emoji
 Typing Option
 Colors
 Vibrant
+
+Dark options
+Video calls
